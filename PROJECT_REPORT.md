@@ -203,3 +203,4 @@ Refer to the primary file [`shopping_cart.py`](file:///c:/Users/piyus/OneDrive/D
 
 ## 7. CONCLUSION
 The Shopping Cart System was successfully engineered according to all given academic criteria and industry practices. It validates all user inputs, adheres strictly to the single-file constraint, correctly manages memory using standard data structures, and passes 100% of the required test cases with zero defects.
+
